@@ -1,0 +1,21 @@
+{
+    "name": "sourcejs-swig",
+    "version": "1.0.0",
+    "description": "Swig support for SourceJS",
+    "main": "index.js",
+    "author": "Marek Viger <marek.viger@gmail.com>",
+    "license": "MIT",
+    "keywords": [
+        "sourcejs",
+        "swig"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/freezy-sk/sourcejs-swig.git"
+    },
+    "homepage": "https://github.com/freezy-sk/sourcejs-swig",
+    "dependencies": {
+        "deep-extend": "^0.3.2",
+        "swig": "^1.4.0"
+    }
+}
